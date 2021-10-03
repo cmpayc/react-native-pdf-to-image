@@ -4,9 +4,9 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "RNPdfToImage"
   s.description  = <<-DESC
-                  RNPdfToImage
+                  RNPdfToImage 1.0.0
                    DESC
-  s.homepage     = ""
+  s.homepage     = "nohomepage"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
