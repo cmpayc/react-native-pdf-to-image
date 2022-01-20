@@ -8,4 +8,3 @@
 @interface RNPdfToImage : NSObject <RCTBridgeModule>
 
 @end
-  
